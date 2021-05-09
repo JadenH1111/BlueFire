@@ -1,4 +1,6 @@
-# BlueFire <This is a app that lets you to play the game called The Knight and the Ring *You will have to use a keyboard*>
+# BlueFire 
+
+<This is a app that lets you to play the game called The Knight and the Ring *You will have to use a keyboard*>
 
 ## App Icon
 
